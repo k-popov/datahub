@@ -59,7 +59,7 @@ click==8.1.7
 click-default-group==1.2.4
 click-spinner==0.1.10
 clickclick==20.10.2
-clickhouse-driver==0.2.8
+clickhouse-driver==0.2.9
 clickhouse-sqlalchemy==0.2.4
 cloudpathlib==0.18.1
 cloudpickle==3.0.0
